@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/485/185/desktop-wallpaper-covers-for-youtube-thumbnail-customize-the-channel-simply-and-quickly.jpg");
+    background-size: cover;
+}
+header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: brown;
+
+    
+}
+#rani{
+    width: 600px;
+  } 
+@media(max-width:600){
+  #rani{
+        width: 300px;
+      }  
+} 
+h2{
+    color: brown;
+    font-family: 'Merriweather', serif;
+font-family: 'Playfair Display', serif;
+}
+h3, footer{
+    text-align: center;
+    color: blue;
+}
